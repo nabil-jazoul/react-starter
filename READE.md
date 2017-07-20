@@ -1,6 +1,6 @@
 Quickstart
 
-git clone https://github.com/ming-soon/mern-starter.git your_app
+git clone https://github.com/nabil-jazoul/react-starter.git your_app
 cd your_app
 npm install
 npm run start
